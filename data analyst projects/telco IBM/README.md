@@ -40,5 +40,5 @@ An interactive Power BI dashboard built using the IBM Telco Customer Churn Datas
 
 ### 3. Customer Profile Analysis
 <p align="left">
-  <img src="customer%20details.png" width="70%" />
+  <img src="cust%20details.png" width="70%" />
 </p>
